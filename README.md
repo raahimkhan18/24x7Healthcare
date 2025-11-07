@@ -37,15 +37,16 @@ The app works **offline** and stores user data & bookings securely using **SQLit
 
 | Login | Registration | Home |
 |------|-------------|------|
-| ![](screenshots/login.jpg) | ![](screenshots/register.jpg) | ![](screenshots/home.jpg) |
+| <img src="screenshots/login.jpg" width="300"/> | <img src="screenshots/register.jpg" width="300"/> | <img src="screenshots/home.jpg" width="300"/> |
 
 | Lab Test Packages | Test Details | Checkout |
 |------|-------------|------|
-| ![](screenshots/lab_tests.jpg) | ![](screenshots/test_details.jpg) | ![](screenshots/checkout.jpg) |
+| <img src="screenshots/lab_tests.jpg" width="300"/> | <img src="screenshots/test_details.jpg" width="300"/> | <img src="screenshots/checkout.jpg" width="300"/> |
 
 | Booking Form | Find Doctors |
 |-------------|-------------|
-| ![](screenshots/booking.jpg) | ![](screenshots/find_doctors.jpg) |
+| <img src="screenshots/booking.jpg" width="300"/> | <img src="screenshots/find_doctors.jpg" width="300"/> |
+
 
 ---
 
