@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">24x7Healthcare</string>
+
+    <!-- Define the fee text format -->
+    <string name="fee_text">Cons. Fees: %1$s/-</string>
+
+    <!-- Define the date format -->
+    <string name="date_format">%1$d/%2$d/%3$d</string>
+
+    <!-- Define the time format -->
+    <string name="time_format">%1$d:%2$02d</string>
+
+    <string name="total_cost_format">Total Cost : %1$s/-</string>
+
+    <string name="fill_all_details">Please fill ALL details</string>
+    <string name="login_success">Login Success</string>
+    <string name="invalid_credentials">Invalid Username and Password</string>
+    <string name="lab_test_and_package">Lab Test and Package</string>
+    <string name="deliver_location_pune">Deliver Location : PUNE</string>
+    <string name="_24x7_healthcare">24x7 HEALTHCARE</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="back">Back</string>
+    <string name="hi_nhello">Hi \nHello</string>
+    <string name="textview">TextView</string>
+    <string name="_24_x_7_healthcare">24 x 7 HEALTHCARE</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_log">LOGIN</string>
+    <string name="register_for_new_user">Register for New User</string>
+    <string name="_24_x_7_healthcareapp">24 x 7 HEALTHCARE</string>
+    <string name="_24_x_7_healthcare_app">24 x 7 \tHealthcare</string>
+    <string name="registration">Registration</string>
+    <string name="username_register">Username</string>
+    <string name="email">Email</string>
+    <string name="password_register">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="register">Register</string>
+
+
+</resources>
