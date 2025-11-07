@@ -1,7 +1,7 @@
 # 24x7 Healthcare 🏥
 
 <p align="center">
-  <img src="app_logo.png" width="160">
+  <img src="screenshots/app_logo.png" width="160">
 </p>
 
 24x7 Healthcare is an Android application that allows users to book lab tests, buy medicines, read useful health articles, and consult doctors anytime, anywhere.  
